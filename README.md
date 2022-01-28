@@ -16,7 +16,7 @@ uma base de conhecimentos para uma universidade!
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-<br>
+
 <h4>📖 Estudando atualmente:</h4> 
 
 <div style="display: flex;">
