@@ -25,6 +25,12 @@ Habilidades atuais: &nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
+<br>
+<div align="left">
+  <a href="https://github.com/bilisko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilisko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
 
 <!---
 bilisko/bilisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
