@@ -1,4 +1,5 @@
-<h2>👋 Hello!! Me chamo Victor Gemelgo, nickname: Bilisko</h2>
+<h2>👋 Hello!! Me chamo Victor Gemelgo</h2>
+<h3>Nickname: Bilisko</h3>
 
 Atualmente possuos mais habilidades em front-end porém estudando para me tornar um ótimo Full-Stack 🥰
 
