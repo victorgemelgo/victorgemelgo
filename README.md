@@ -27,8 +27,8 @@ uma base de conhecimentos para uma universidade!
 </div>
 <br>
 <div align="left">
-  <a href="https://github.com/bilisko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilisko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/victorgemelgo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgemelgo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
 
