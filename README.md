@@ -48,10 +48,6 @@ Quasar Framework with &nbsp;<img src="https://img.shields.io/badge/Cordova-35434
 
 </div>
 
-I love learning new technologies to constantly expand my programming knowledge and stay up-to-date with the latest trends in the development world.
-
-Feel free to check out my repositories and reach out if you have any interesting collaboration ideas or feedback!
-
 <!---
 bilisko/bilisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
