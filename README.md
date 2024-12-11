@@ -3,7 +3,7 @@
 
 I’m a Full-Stack Developer who loves building applications for different environments—whether it’s mobile, web, or desktop. I’m passionate about creating scalable, efficient, and user-friendly solutions 🥰
 
-💻 I’ve had the pleasure of working on several personal and professional projects that hold a special place in my heart. These include various WordPress websites, a POS system for a spice store built with Java SWING, and a knowledge base for the IT department of a university, which was my first web project developed using PHP & MySQL.
+💻 My first projects were very special to me and laid the foundation for my journey as a developer. These include various WordPress websites, a POS system for a spice store built with Java SWING, and a knowledge base for the IT department of a university, which was my first web project developed using PHP & MySQL.
 
 <h4>🖖 Current Skills: </h4>  
 
