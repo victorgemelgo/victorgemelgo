@@ -42,11 +42,6 @@ Quasar Framework with &nbsp;<img src="https://img.shields.io/badge/Cordova-35434
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <br>
-<div align="left">
-  <a href="https://github.com/victorgemelgo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgemelgo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-</div>
 
 <!---
 bilisko/bilisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
